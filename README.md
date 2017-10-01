@@ -36,6 +36,11 @@ Disconnects all sockets from the server. Right now it works essentially the same
 Props to Mr. Doob and his [code editor](http://mrdoob.com/projects/code-editor/), from which
 the inspiration to this, and some handy implementation hints, came.
 
+### TODO:
+
+  * Dynamically add player cloths based on player count
+  * Player cursors
+  
 ### Artwork:
 
  * [Playing Cards and Chips by UnkindFox](https://opengameart.org/content/playing-card-assets-52-cards-deck-chips)
