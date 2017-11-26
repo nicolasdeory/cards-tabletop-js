@@ -5,8 +5,8 @@ Made with NodeJS, Socket.io and CreateJS.
 
 ### Features
 
- *  Ability to move and flip cards freely, with all movements synced with all clients.
- * Every player (up to 4) has a cloth where they can store cards without anyone seeing, moving, or flipping them.
+ *  Ability to freely move and flip cards ,with all movements synced with all clients.
+ * Every player (up to 4) has a cloth where they can store cards without anyone else seeing, moving, or flipping them.
  * These cloths are useful to play card games where each player should only be able to see their cards.
  * Shuffle deck button accessible for all players.
  * Console commands
