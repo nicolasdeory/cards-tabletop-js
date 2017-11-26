@@ -18,9 +18,9 @@ Right now, any player who joins the session beyond the fourth one, will be able 
 
 **Spawn Item**
 ```
-spawn <item> [count]
+spawn <item> [n]
 ```
-Places *count* new objects of the type specified, at the default location. Example: spawn chipRed 2
+Places *n* objects of the type specified, at the default location. Example: spawn chipRed 2
 
 For an updated list of available items, check [index.js](https://github.com/guachitonico/cards-tabletop-js/blob/master/index.js)
 
@@ -33,8 +33,7 @@ Disconnects all sockets from the server. Right now it works essentially the same
 
 
 
-Props to Mr. Doob and his [code editor](http://mrdoob.com/projects/code-editor/), from which
-the inspiration to this, and some handy implementation hints, came.
+
 
 ### TODO:
 
