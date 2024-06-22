@@ -3,6 +3,8 @@
 An online tabletop simulator with cards and poker chips.
 Made with NodeJS, Socket.io and CreateJS.
 
+https://github.com/nicolasdeory/cards-tabletop-js/assets/1417708/b4e98ce6-63a7-47a4-9b8e-371859b7e599
+
 ### Features
 
  *  Ability to freely move and flip cards ,with all movements synced with all clients.
@@ -11,8 +13,11 @@ Made with NodeJS, Socket.io and CreateJS.
  * Shuffle deck button accessible to all players.
  * Console commands
 
-
 Right now, any player who joins the session beyond the fourth one, will be able to move cards and chips normally, but they won't have a personal cloth to store their cards.
+
+### How to run
+`node index.js`
+Then navigate to `localhost:3000` or `<YOUR_HOST_IP>:3000`
 
 ### Console Commands
 
